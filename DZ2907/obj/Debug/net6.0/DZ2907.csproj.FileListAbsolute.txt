@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\bin\Debug\net6.0\DZ2907.exe
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\bin\Debug\net6.0\DZ2907.deps.json
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\bin\Debug\net6.0\DZ2907.runtimeconfig.json
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\bin\Debug\net6.0\DZ2907.dll
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\bin\Debug\net6.0\DZ2907.pdb
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.dll
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\refint\DZ2907.dll
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.pdb
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\DZ2907.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\GIGBRAIN обучение\C-shard_home_work\DZ2907\obj\Debug\net6.0\ref\DZ2907.dll
